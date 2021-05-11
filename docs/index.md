@@ -32,12 +32,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+aerie 
 
-### Themes
+noun
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AERIELOVE/AERIELOVE.GITHUB.IO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ae·​rie | \ ˈer-ē  , ˈir-ē  , ˈā-(ə-)rē  \
+variants: or less commonly aery
+Definition of aerie
+1: the nest of a bird on a cliff or a mountaintop
+2obsolete : a brood of birds of prey
+3: an elevated often secluded dwelling, structure, or position
