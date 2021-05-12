@@ -1,4 +1,4 @@
-## AERIE LOVE
+## Aerie Love - A Safe Haven for those seeking Refuge
 
 
 The Lord is a stronghold for the oppressed, a stronghold in times of trouble. 
