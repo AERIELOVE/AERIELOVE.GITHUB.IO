@@ -1,3 +1,17 @@
-theme: jekyll-theme-slate
+title: AERIE LOVE #Title
 
-title: AERIE LOVE
+tagline: God # Christ
+
+author: Tyler Aerie #Name
+
+email: tyler@aerie.love #Email
+
+description: "Aerie Love" #Document Description
+
+keywords: "Aerie, Love, Restoration, Healing, Recovery, Truth" #HTML meta keywords
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+
+url: "http://aerie.love" # the base hostname
+
+theme: jekyll-theme-slate
